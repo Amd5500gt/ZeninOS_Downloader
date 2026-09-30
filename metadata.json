@@ -1,0 +1,6 @@
+{
+  "name": "Zenin OS — Personal Productivity OS",
+  "description": "Zenin OS brings tasks, habits, focus sessions and AI-powered daily planning into one disciplined productivity system built for Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
